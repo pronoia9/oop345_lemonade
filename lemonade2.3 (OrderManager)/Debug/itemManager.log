@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (lemonade2.vcxproj, taskManager.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ms2.cpp
+  Utilities.cpp
+  Generating Code...
+  itemManager.vcxproj -> W:\Dropbox\CPA\OOP345\milestones\lemonade2.2 (ItemManager)\Debug\itemManager.exe
+  itemManager.vcxproj -> W:\Dropbox\CPA\OOP345\milestones\lemonade2.2 (ItemManager)\Debug\itemManager.pdb (Partial PDB)
